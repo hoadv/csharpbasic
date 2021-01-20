@@ -1,0 +1,8 @@
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.deps.json
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfoInputs.cache
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfo.cs
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+D:\Work\CSharpLearning\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csproj.CoreCompileInputs.cache
