@@ -1,0 +1,9 @@
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.deps.json
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csprojAssemblyReference.cache
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfoInputs.cache
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfo.cs
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csproj.CoreCompileInputs.cache
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+C:\Users\hieutrungtran\source\repos\KMS.CSharpBasic\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb

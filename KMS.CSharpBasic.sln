@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMS.CSharpBasic.Overview", "KMS.CSharpBasic.Overview\KMS.CSharpBasic.Overview.csproj", "{272E9A27-F0EC-4FA6-ABDD-3573977A25C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMS.CSharpBasic.Core", "KMS.CSharpBasic.Core\KMS.CSharpBasic.Core.csproj", "{E7C81923-BCA5-458A-BECD-474D27D87EF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{272E9A27-F0EC-4FA6-ABDD-3573977A25C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{272E9A27-F0EC-4FA6-ABDD-3573977A25C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{272E9A27-F0EC-4FA6-ABDD-3573977A25C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{272E9A27-F0EC-4FA6-ABDD-3573977A25C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7C81923-BCA5-458A-BECD-474D27D87EF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7C81923-BCA5-458A-BECD-474D27D87EF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7C81923-BCA5-458A-BECD-474D27D87EF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7C81923-BCA5-458A-BECD-474D27D87EF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A4CEFF53-B227-42B2-8FFF-D6549885D9FC}
+	EndGlobalSection
+EndGlobal
