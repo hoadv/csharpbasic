@@ -1,0 +1,9 @@
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.deps.json
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfoInputs.cache
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfo.cs
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csprojAssemblyReference.cache
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csproj.CoreCompileInputs.cache
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+D:\AUDI\Clearwave\Auto\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb

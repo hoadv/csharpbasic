@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XR7FJU23TcVAg6EN7rAoid7VxgiUduB3sWmZU5TwyBAEOhhksfl9K/WuO1ngsbUZxmK6aVba7o5B95XP2ofjg==",
+  "success": true,
+  "projectFilePath": "D:\\AUDI\\Clearwave\\Auto\\KMS.CSharpBasic.Core\\KMS.CSharpBasic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\loanpham\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

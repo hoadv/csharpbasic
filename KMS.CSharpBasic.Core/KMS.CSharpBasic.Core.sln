@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMS.CSharpBasic.Core", "KMS.CSharpBasic.Core.csproj", "{D4BBB240-4AC4-477E-B846-676E24D50058}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KMS.CSharpBasic.Overview", "..\KMS.CSharpBasic.Overview\KMS.CSharpBasic.Overview.csproj", "{99382DA1-946D-4460-859D-A7C6ACC93813}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4BBB240-4AC4-477E-B846-676E24D50058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4BBB240-4AC4-477E-B846-676E24D50058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4BBB240-4AC4-477E-B846-676E24D50058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4BBB240-4AC4-477E-B846-676E24D50058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99382DA1-946D-4460-859D-A7C6ACC93813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99382DA1-946D-4460-859D-A7C6ACC93813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99382DA1-946D-4460-859D-A7C6ACC93813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99382DA1-946D-4460-859D-A7C6ACC93813}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2941BE73-5ECA-47BA-BB95-DACAE4D8B975}
+	EndGlobalSection
+EndGlobal
