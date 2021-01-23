@@ -1,0 +1,7 @@
+D:\C# Project\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.deps.json
+D:\C# Project\KMS.CSharpBasic.Core\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\C# Project\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csprojAssemblyReference.cache
+D:\C# Project\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfoInputs.cache
+D:\C# Project\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.AssemblyInfo.cs
+D:\C# Project\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.csproj.CoreCompileInputs.cache
+D:\C# Project\KMS.CSharpBasic.Core\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
