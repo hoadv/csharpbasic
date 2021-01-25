@@ -2,3 +2,16 @@ C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bi
 C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csprojAssemblyReference.cache
 C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfoInputs.cache
 C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfo.cs
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.deps.json
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.json
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.dev.json
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CoreCompileInputs.cache
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CopyComplete
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.genruntimeconfig.cache

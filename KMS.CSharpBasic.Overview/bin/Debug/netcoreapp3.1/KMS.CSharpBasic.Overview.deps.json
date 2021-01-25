@@ -6,12 +6,13 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "KMS.CSharpBasic.Core/1.0.0": {
+      "KMS.CSharpBasic.Overview/1.0.0": {
         "dependencies": {
-          "Humanizer.Core": "2.8.26"
+          "Humanizer.Core": "2.8.26",
+          "KMS.CSharpBasic.Core": "1.0.0"
         },
         "runtime": {
-          "KMS.CSharpBasic.Core.dll": {}
+          "KMS.CSharpBasic.Overview.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -21,11 +22,19 @@
             "fileVersion": "2.8.26.1919"
           }
         }
+      },
+      "KMS.CSharpBasic.Core/1.0.0": {
+        "dependencies": {
+          "Humanizer.Core": "2.8.26"
+        },
+        "runtime": {
+          "KMS.CSharpBasic.Core.dll": {}
+        }
       }
     }
   },
   "libraries": {
-    "KMS.CSharpBasic.Core/1.0.0": {
+    "KMS.CSharpBasic.Overview/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -36,6 +45,11 @@
       "sha512": "sha512-OiKusGL20vby4uDEswj2IgkdchC1yQ6rwbIkZDVBPIR6al2b7n3pC91elBul9q33KaBgRKhbZH3+2Ur4fnWx2A==",
       "path": "humanizer.core/2.8.26",
       "hashPath": "humanizer.core.2.8.26.nupkg.sha512"
+    },
+    "KMS.CSharpBasic.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }
