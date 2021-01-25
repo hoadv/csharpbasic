@@ -1,0 +1,17 @@
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.exe
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.deps.json
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.json
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.dev.json
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+D:\Projects\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.pdb
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csprojAssemblyReference.cache
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfoInputs.cache
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfo.cs
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CoreCompileInputs.cache
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CopyComplete
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+D:\Projects\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.genruntimeconfig.cache

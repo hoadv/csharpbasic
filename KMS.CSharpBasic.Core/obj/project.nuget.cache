@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BWBA+EH9GXI2qPPi7W6MS3vU3kBZsJLZY/KSts+TbcG6KVipr5pzpOYeGxslP6SaKadeRuPs5zEC7S3QVT1Z8w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\KMS.CSharpBasic.Core\\KMS.CSharpBasic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hungthi\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}
