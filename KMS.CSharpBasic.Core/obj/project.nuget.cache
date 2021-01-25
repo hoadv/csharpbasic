@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ufo/JYWuy0EleQffd92uZtj1+REeXwfIX1ywBzFOGWO3DCMSXUMkq50DeYyxJp/JtgBN9liMsb+8yJ1Sv7VpBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\phuonghoangtruong\\source\\Repos\\csharpbasic3\\KMS.CSharpBasic.Core\\KMS.CSharpBasic.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\phuonghoangtruong\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512"
+  ],
+  "logs": []
+}

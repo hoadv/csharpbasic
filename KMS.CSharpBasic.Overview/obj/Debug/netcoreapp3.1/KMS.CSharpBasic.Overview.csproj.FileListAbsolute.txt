@@ -1,0 +1,4 @@
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.exe
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csprojAssemblyReference.cache
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfoInputs.cache
+C:\Users\phuonghoangtruong\source\Repos\csharpbasic3\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfo.cs
