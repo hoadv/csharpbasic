@@ -10,3 +10,18 @@ D:\C# Project\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.O
 D:\C# Project\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
 D:\C# Project\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
 D:\C# Project\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.genruntimeconfig.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.exe
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.deps.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.runtimeconfig.dev.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\bin\Debug\netcoreapp3.1\KMS.CSharpBasic.Core.dll
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csprojAssemblyReference.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfoInputs.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.AssemblyInfo.cs
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CoreCompileInputs.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.csproj.CopyComplete
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.dll
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.pdb
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\KMS.CSharpBasic.Overview\obj\Debug\netcoreapp3.1\KMS.CSharpBasic.Overview.genruntimeconfig.cache

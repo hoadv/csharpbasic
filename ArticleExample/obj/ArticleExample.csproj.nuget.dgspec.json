@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\KMS.CSharpBasic.Overview\\KMS.CSharpBasic.Overview.csproj": {}
+    "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\ArticleExample\\ArticleExample.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\KMS.CSharpBasic.Overview\\KMS.CSharpBasic.Overview.csproj": {
+    "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\ArticleExample\\ArticleExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\KMS.CSharpBasic.Overview\\KMS.CSharpBasic.Overview.csproj",
-        "projectName": "KMS.CSharpBasic.Overview",
-        "projectPath": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\KMS.CSharpBasic.Overview\\KMS.CSharpBasic.Overview.csproj",
+        "projectUniqueName": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\ArticleExample\\ArticleExample.csproj",
+        "projectName": "ArticleExample",
+        "projectPath": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\ArticleExample\\ArticleExample.csproj",
         "packagesPath": "C:\\Users\\hienvnguyen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\KMS.CSharpBasic.Overview\\obj\\",
+        "outputPath": "C:\\Users\\hienvnguyen\\Documents\\GitHub\\csharpbasic\\ArticleExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hienvnguyen\\AppData\\Roaming\\NuGet\\NuGet.Config",

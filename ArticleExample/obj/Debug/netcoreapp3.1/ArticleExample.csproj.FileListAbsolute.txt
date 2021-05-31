@@ -1,0 +1,13 @@
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.exe
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.deps.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.runtimeconfig.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.runtimeconfig.dev.json
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.dll
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\bin\Debug\netcoreapp3.1\ArticleExample.pdb
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.csprojAssemblyReference.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.AssemblyInfoInputs.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.AssemblyInfo.cs
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.csproj.CoreCompileInputs.cache
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.dll
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.pdb
+C:\Users\hienvnguyen\Documents\GitHub\csharpbasic\ArticleExample\obj\Debug\netcoreapp3.1\ArticleExample.genruntimeconfig.cache
